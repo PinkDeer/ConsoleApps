@@ -9,7 +9,7 @@ namespace Average
             Console.Title = "Среднее арифмитическое двух чисел";
 
             string  str;
-            double a, b;
+            double a, b, resault;
 
             Console.WriteLine("Введите первое число:");
             str = Console.ReadLine();
@@ -19,7 +19,7 @@ namespace Average
             str = Console.ReadLine();
             b = Convert.ToDouble(str);
 
-            double resault = (a+b)/2;
+            resault = (a+b)/2;
             Console.WriteLine($"Среднее арифмитическое двух чисел: {resault}");
 
             Console.ReadKey();
