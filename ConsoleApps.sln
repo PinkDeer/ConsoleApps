@@ -3,27 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29519.87
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_ConsoleApps", "ConsoleApps\01_ConsoleApps.csproj", "{A6D9D5CF-3F12-4916-9EDB-29E7DA615585}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00_ConsoleApps", "ConsoleApps\00_ConsoleApps.csproj", "{A6D9D5CF-3F12-4916-9EDB-29E7DA615585}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_DataTypes", "DataTypes\02_DataTypes.csproj", "{FE027C05-381E-4827-9821-3ED46249BC05}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_DataTypes", "DataTypes\01_DataTypes.csproj", "{FE027C05-381E-4827-9821-3ED46249BC05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Variables", "variables\03_Variables.csproj", "{25173821-352C-4153-9149-FDDCD66134A2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Variables", "variables\02_Variables.csproj", "{25173821-352C-4153-9149-FDDCD66134A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_InputToTheConsole", "InputToTheConsole\04_InputToTheConsole.csproj", "{19D08787-2647-4DE5-9EE9-9C2E85FE6DD9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_InputToTheConsole", "InputToTheConsole\03_InputToTheConsole.csproj", "{19D08787-2647-4DE5-9EE9-9C2E85FE6DD9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Conversion", "Conversion\05_Conversion.csproj", "{C7CF0AFC-5937-4C98-AE8F-1AFF4B307B80}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Conversion", "Conversion\04_Conversion.csproj", "{C7CF0AFC-5937-4C98-AE8F-1AFF4B307B80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_FractionConversion", "FractionConversion\06_FractionConversion.csproj", "{1D809FCE-6CE7-48C3-80CF-E583DE81B99C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_FractionConversion", "FractionConversion\05_FractionConversion.csproj", "{1D809FCE-6CE7-48C3-80CF-E583DE81B99C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_ParseTryparse", "ParseTryparse\07_ParseTryparse.csproj", "{A1966345-9807-4BF1-851B-27C545814E40}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_ParseTryparse", "ParseTryparse\06_ParseTryparse.csproj", "{A1966345-9807-4BF1-851B-27C545814E40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_ArithmeticOperations", "ArithmeticOperations\08_ArithmeticOperations.csproj", "{A7EB40FD-FB7A-4520-9F96-1B83970B46F0}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_Average", "Average\09_Average.csproj", "{C849DD00-0330-4E1D-B0A2-00411275D111}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_MultiplicationAndSum", "MultiplicationAndSum\10_MultiplicationAndSum.csproj", "{161DDAC3-069C-4324-8F8D-86E095E72531}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_CurrencyConverter", "CurrencyConverter\11_CurrencyConverter.csproj", "{9D4E8FAA-D935-4777-A096-4DA2AA229BBE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_ArithmeticOperations", "ArithmeticOperations\07_ArithmeticOperations.csproj", "{A7EB40FD-FB7A-4520-9F96-1B83970B46F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,18 +57,6 @@ Global
 		{A7EB40FD-FB7A-4520-9F96-1B83970B46F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7EB40FD-FB7A-4520-9F96-1B83970B46F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7EB40FD-FB7A-4520-9F96-1B83970B46F0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C849DD00-0330-4E1D-B0A2-00411275D111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C849DD00-0330-4E1D-B0A2-00411275D111}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C849DD00-0330-4E1D-B0A2-00411275D111}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C849DD00-0330-4E1D-B0A2-00411275D111}.Release|Any CPU.Build.0 = Release|Any CPU
-		{161DDAC3-069C-4324-8F8D-86E095E72531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{161DDAC3-069C-4324-8F8D-86E095E72531}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{161DDAC3-069C-4324-8F8D-86E095E72531}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{161DDAC3-069C-4324-8F8D-86E095E72531}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9D4E8FAA-D935-4777-A096-4DA2AA229BBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9D4E8FAA-D935-4777-A096-4DA2AA229BBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9D4E8FAA-D935-4777-A096-4DA2AA229BBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9D4E8FAA-D935-4777-A096-4DA2AA229BBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
