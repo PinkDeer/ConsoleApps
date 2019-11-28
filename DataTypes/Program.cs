@@ -41,7 +41,7 @@ namespace DataTypes
             Console.WriteLine(string.Format(msg, "object", typeof(object).Name, "N/A", "N/A", "N/A"));
             Console.WriteLine(string.Format(msg, "dynamic", "N/A", "N/A", "N/A", "N/A"));
 
-            Console.ReadLine();
+            Console.ReadKey();
         }
     }
 }

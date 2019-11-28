@@ -29,7 +29,7 @@ namespace variables
             //int = x;
             //int = x;
 
-            Console.ReadLine();
+            Console.ReadKey();
         }
     }
 }
