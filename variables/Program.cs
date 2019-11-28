@@ -6,6 +6,9 @@ namespace variables
     {
         static void Main(string[] args)
         {
+
+            Console.Title = "Переменные";
+
             int a;
             a = 5;
             Console.WriteLine(a);

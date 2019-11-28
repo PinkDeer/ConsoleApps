@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Variables", "variables\0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_InputToTheConsole", "InputToTheConsole\04_InputToTheConsole.csproj", "{19D08787-2647-4DE5-9EE9-9C2E85FE6DD9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Conversion", "Conversion\05_Conversion.csproj", "{C7CF0AFC-5937-4C98-AE8F-1AFF4B307B80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_FractionConversion", "FractionConversion\06_FractionConversion.csproj", "{1D809FCE-6CE7-48C3-80CF-E583DE81B99C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{19D08787-2647-4DE5-9EE9-9C2E85FE6DD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19D08787-2647-4DE5-9EE9-9C2E85FE6DD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19D08787-2647-4DE5-9EE9-9C2E85FE6DD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7CF0AFC-5937-4C98-AE8F-1AFF4B307B80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7CF0AFC-5937-4C98-AE8F-1AFF4B307B80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7CF0AFC-5937-4C98-AE8F-1AFF4B307B80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7CF0AFC-5937-4C98-AE8F-1AFF4B307B80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D809FCE-6CE7-48C3-80CF-E583DE81B99C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D809FCE-6CE7-48C3-80CF-E583DE81B99C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D809FCE-6CE7-48C3-80CF-E583DE81B99C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D809FCE-6CE7-48C3-80CF-E583DE81B99C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

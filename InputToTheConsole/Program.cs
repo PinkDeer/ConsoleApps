@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace InputToTheConsole
 {
@@ -10,6 +6,8 @@ namespace InputToTheConsole
     {
         static void Main(string[] args)
         {
+            Console.Title = "Ввод данных в консоль";
+
             Console.WriteLine("Введите своё имя: ");
             string name = Console.ReadLine();
 
