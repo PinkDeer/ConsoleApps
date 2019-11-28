@@ -8,15 +8,15 @@ namespace ParseTryparse
         {
             Console.Title = "Parse и TryParse";
 
-            /// Распарсить целое число. Метод Parse
+            // Распарсить целое число. Метод Parse
             string str = "5";
             int a = int.Parse(str);
             Console.WriteLine(a);
 
-            /// Распарсить доброе число с точкой. Метод Parse
+            // Распарсить доброе число с точкой. Метод Parse
             str = "5.4";
             
-           /// Обработка исключения
+            // Обработка исключения
             try
             {
                 double b = double.Parse(str);
@@ -27,7 +27,7 @@ namespace ParseTryparse
                 Console.WriteLine("Ошибка при конертации");
             }
 
-            /// Распарсить дробь. Метод TryParse
+            // Распарсить дробь. Метод TryParse
 
             str = "3fdg";
             int c;
