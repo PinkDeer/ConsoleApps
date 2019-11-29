@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_ParseTryparse", "ParseTr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_ArithmeticOperations", "ArithmeticOperations\07_ArithmeticOperations.csproj", "{A7EB40FD-FB7A-4520-9F96-1B83970B46F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncrementDecrement", "Increment,Decrement\IncrementDecrement.csproj", "{57E87306-84F4-46BE-93C9-19982D9DA578}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{A7EB40FD-FB7A-4520-9F96-1B83970B46F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7EB40FD-FB7A-4520-9F96-1B83970B46F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7EB40FD-FB7A-4520-9F96-1B83970B46F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57E87306-84F4-46BE-93C9-19982D9DA578}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57E87306-84F4-46BE-93C9-19982D9DA578}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57E87306-84F4-46BE-93C9-19982D9DA578}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57E87306-84F4-46BE-93C9-19982D9DA578}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
