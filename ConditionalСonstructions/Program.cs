@@ -25,6 +25,8 @@ namespace ConditionalСonstructions
                 Console.WriteLine("Персонаж здоров");
             }
 
+            Console.ReadLine();
+
             // Пример с выражением
 
             int a;
