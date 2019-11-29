@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_ConditionalExpressions",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_ConditionalСonstructions", "ConditionalСonstructions\10_ConditionalСonstructions.csproj", "{ED4839BD-0F0A-46E6-A47A-41164CB3930E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_switch", "switch\11_switch.csproj", "{2DC7BB73-B752-4206-A3D1-A9B73234299E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{ED4839BD-0F0A-46E6-A47A-41164CB3930E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED4839BD-0F0A-46E6-A47A-41164CB3930E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED4839BD-0F0A-46E6-A47A-41164CB3930E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DC7BB73-B752-4206-A3D1-A9B73234299E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DC7BB73-B752-4206-A3D1-A9B73234299E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DC7BB73-B752-4206-A3D1-A9B73234299E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DC7BB73-B752-4206-A3D1-A9B73234299E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
