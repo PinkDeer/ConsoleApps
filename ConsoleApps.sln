@@ -27,7 +27,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_ConditionalСonstruction
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_switch", "switch\11_switch.csproj", "{2DC7BB73-B752-4206-A3D1-A9B73234299E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_While", "While\12_While.csproj", "{6916475C-8198-4619-9EC3-E64227E5CF43}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_WhileDo", "While\12_WhileDo.csproj", "{6916475C-8198-4619-9EC3-E64227E5CF43}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
