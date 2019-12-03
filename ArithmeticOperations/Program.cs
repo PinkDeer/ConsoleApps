@@ -7,7 +7,9 @@ namespace ArithmeticOperations
         static void Main(string[] args)
         {
             Console.Title = "Арифметические операции";
-                
+
+            // Бинарные операции 
+            
             // Сложение
             int a = 3;
             int b = 4;

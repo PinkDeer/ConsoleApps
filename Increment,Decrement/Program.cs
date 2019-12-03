@@ -9,6 +9,8 @@ namespace Increment_Decrement
 
             Console.Title = "Инкремент и декремент";
 
+            // Унарные операции
+
             // Инкремент
             int a = 0;
             a++; // Постфиксная форма. Аналог a = a + 1;
