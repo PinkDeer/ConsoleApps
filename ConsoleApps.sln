@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_NestedLoop", "NestedLoop
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16_TernaryOperators", "TernaryOperators\16_TernaryOperators.csproj", "{D5BED13F-9152-4C0C-A515-AA64C51C5142}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17_Arrays", "Arrays\17_Arrays.csproj", "{47541BDC-B5C7-4EF8-B3AC-206997100881}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{D5BED13F-9152-4C0C-A515-AA64C51C5142}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5BED13F-9152-4C0C-A515-AA64C51C5142}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5BED13F-9152-4C0C-A515-AA64C51C5142}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47541BDC-B5C7-4EF8-B3AC-206997100881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47541BDC-B5C7-4EF8-B3AC-206997100881}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47541BDC-B5C7-4EF8-B3AC-206997100881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47541BDC-B5C7-4EF8-B3AC-206997100881}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
