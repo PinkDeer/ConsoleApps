@@ -33,6 +33,18 @@ namespace Arrays
             int[] myArraySeven = Enumerable.Range(3,5).ToArray(); // 5 элементов, первое значение 3
 
             Console.ReadLine();
+
+            // Перебор массива с помощью цикла for
+
+            int[] Array = { 1, 4, 5, 7, 4 };
+
+            for (int i = 0; i < Array.Length; i++)
+            {
+                Console.WriteLine(Array[i]);
+            }
+
+            Console.ReadLine();
+
         }
     }
 }
