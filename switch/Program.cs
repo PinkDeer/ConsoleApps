@@ -8,7 +8,7 @@ namespace @switch
         {
             Console.Title = "Оператор switch";
 
-            //Пример с число
+            //Пример с числом
 
             int a = int.Parse(Console.ReadLine());
 
@@ -48,7 +48,7 @@ namespace @switch
             }
             Console.ReadKey();
 
-            // Поезно
+            // Полезно
 
             ConsoleKey consoleKey = Console.ReadKey().Key;
 
